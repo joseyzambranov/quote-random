@@ -9,7 +9,7 @@
 --color-text: #CFD7C7;
 --color-buttom: #0B2027;
 --color-body: #70A9A1;
---color-content:#40798C;
+--color-content:#2b4852;
 /*------font and typografhy--------*/
 --body-font:'Poppins', sans-serif;
 
@@ -23,11 +23,12 @@
     padding: 0;
 }
 
-body{
+.App{
     font-family: var(--body-font);
     font-size: var(--medium-font-size);
     background-color: var(--color-body);
     color: var(--color-text);
+    
 }
 
 h1{
